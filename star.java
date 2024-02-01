@@ -1,3 +1,3 @@
 public class Star extends Shape {
-    "I'm the best!";
+    "I'm a star";
 }
