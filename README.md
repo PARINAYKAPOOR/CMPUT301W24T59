@@ -12,4 +12,4 @@ budhatho -
 frashhid2 - 
 manahill3 -
 fiqbal3 - 
-parinay -
+parinay -parinay@ualberta.ca
